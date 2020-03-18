@@ -1,0 +1,22 @@
+title: Human Boring
+email: me@humanboring.net
+description: Thoughts from a boring person
+baseurl:
+url: https://www.humanboring.net
+locale: en-gb
+twitter_username: humanboring
+
+
+
+# Build settings
+markdown: kramdown
+remote_theme: humanboring/humanboring_theme
+plugins:
+  - jekyll-json-feed
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
+  - deploy.sh

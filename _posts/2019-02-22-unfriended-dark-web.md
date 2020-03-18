@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Unfriended: Dark Web (2018)"
+---
+
+This was not a good film. Unfriended: Dark Web is the sequel to the 2014 film [Unfriended](https://www.imdb.com/title/tt3713166/). It shares the horror 'gimmick' of the whole film taking place inside a computer screen. The characters in our film are on a Skype call together, with our protagonist Mathias having stollen a laptop from a lost-and-found box. However, it turns out this computer belonged to a hacker, meaning our protagonists have become tangled in a larger game. Unlike the first film, there is almost no supernatural element to 'Dark Web', with the exception of the almost god-like hacking ability of the shadowy group terrorising the friends. 
+
+While very cheesy, this film was enjoyable throughout, though I watched it while drinking a beer with some friends so I'm not sure how fun it would be to watch alone. I would recommend this if you're looking for a dump horror film to laugh at, but not so much if you actually want to be scared.
+
+★★★☆☆
