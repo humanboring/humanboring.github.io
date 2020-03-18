@@ -15,6 +15,7 @@ plugins:
   - jekyll-json-feed
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
 exclude:
   - Gemfile
   - Gemfile.lock

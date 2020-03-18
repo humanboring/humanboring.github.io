@@ -20,6 +20,7 @@ gem 'jekyll'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
 
+gem 'jekyll-remote-theme'
 gem 'font-awesome-sass'
 gem 'jekyll-json-feed'
 gem 'jekyll-feed'
