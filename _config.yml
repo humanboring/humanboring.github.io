@@ -1,9 +1,9 @@
 title: Human Boring
-email: me@humanboring.net
 description: Thoughts from a boring person
 baseurl:
-url: https://www.humanboring.net
-locale: en-gb
+url: https://humanboring.github.io
+repository: https://github.com/humanboring/humanboring.github.io/
+locale: "en-gb"
 twitter_username: humanboring
 
 
