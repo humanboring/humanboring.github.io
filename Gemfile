@@ -22,7 +22,6 @@ group :jekyll_plugins do
 
 gem 'jekyll-remote-theme'
 gem 'font-awesome-sass'
-gem 'jekyll-json-feed'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 

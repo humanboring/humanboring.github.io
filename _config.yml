@@ -12,7 +12,6 @@ twitter_username: humanboring
 markdown: kramdown
 remote_theme: humanboring/humanboring_theme
 plugins:
-  - jekyll-json-feed
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-remote-theme

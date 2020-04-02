@@ -1,0 +1,20 @@
+I"a<p>David Pogue (relatively) recently made a <a href="https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html">post</a> on how to fix the Apple Watch. Now, I’ll fully agree that the Apple Watch is far from a perfect product but theres a few things in the article I take issue with.</p>
+<blockquote>
+  <p>Here’s the central problem: Apple went overboard with input mechanisms. How many ways are there to navigate using a phone’s touchscreen? Four: tap, swipe, tap-and-hold, or pinch. 
+But on the Apple Watch, there are seven navigation tools: Turn the crown (the knob on the side). Click the crown inward. Tap the side button. Hold in the side button. Tap the screen. Hard-press the screen. Swipe across the screen.</p>
+</blockquote>
+
+<p>If you’re going to include all the different buttons for navigation, then on the iPhone side you really need to include the home button. In this method of counting that’s another three (tap, hold, and double-tap). On the 6S we also now have 3D touch with two levels, but in Pogue’s defence that wasn’t announced at the time the article was written. If you’re counting, we’re up to a total of 7 for the iPhone (9 for 6s), and 8 for the watch.</p>
+
+<p>He goes on to explain his problems with the spacial navigation, as well as offer a proposed new spacial layout for watchOS in the picture below:</p>
+
+<p>￼<img src="/assets/images/2015-09-26-watch.jpeg" alt="" />
+Image credit to <a href="https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html">Pogue/Yahoo</a></p>
+
+<p>Although this seems fairly logical and neat at first glance, when thinking through what it would actually be like using this, problems appear.
+Imagine you are using the ‘PogueWatch’. First, scroll up to the notifications from the watchface. In this version of the watch, you can scroll left and right, rather than up and down. Which direction leads to the newest alerts, and which way to the oldest? Why have I just jumped up to somewhere in the middle of my notification timeline? This also means you can’t use the crown to scroll through your notifications, though that’s probably not a huge loss.</p>
+
+<p>Ok, let’s go back to the watch face. You can now swipe from there to the home screen, rather than taping on the crown. Once, there, you should be able to swipe again to the friends screen. The problem is, you can also swipe around the homescreen to view all of your apps, meaning now the watch has to somehow work out if that swipe was meant to look around your apps or swipe to the next screen. If you’ve made it to the friends screen you can swipe left to some running apps. And you can go right, past the watch face to some apps. Why some apps are on the left, and some on the right, isn’t explained in the article.</p>
+
+<p>Now this isn’t to say that the way Apple Watch works currently is perfect. Playing amateur designer, however, just isn’t as easy as it seems. The layout looks more neat and tidy in his spacial map, and I suspect this desire for symmetry is what lead to the problems the ‘poguewatch’ would face in actual use.</p>
+:ET
